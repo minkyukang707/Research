@@ -1,3 +1,6 @@
+# Pytorch version = 1.8.1
+# torchvision version = 0.9.1 required 
+
 import os
 import random
 
