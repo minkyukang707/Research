@@ -1,0 +1,3 @@
+RPi.GPIO
+Adafruit-Blinka
+Adafruit-BNO055
