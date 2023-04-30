@@ -1,6 +1,10 @@
 # LSQ and LSQ+<br>
 LSQ+ net or LSQplus net and LSQ net <br>
 
+version setup
+
+pip install torch==1.9.1+cu111 torchvision==0.10.1+cu111 torchaudio==0.9.1 -f https://download.pytorch.org/whl/torch_stable.html
+
 ## commit log<br>
 `
 2023-01-08
