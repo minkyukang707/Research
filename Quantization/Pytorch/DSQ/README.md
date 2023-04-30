@@ -1,6 +1,9 @@
 # DSQ
 pytorch unofficial implementation of "Differentiable Soft Quantization: Bridging Full-Precision and Low-Bit Neural Networks"  
 
+pip install tensorboardX
+pip install pydot
+pip install graphviz
 
 ****
 The Origin Paper : <https://arxiv.org/abs/1908.05033>  
